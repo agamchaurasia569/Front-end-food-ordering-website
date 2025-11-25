@@ -1,4 +1,4 @@
-# Hungry – Food Delivery App
+# Hungry – Food Delivery App 🍚🍜🍴
 
 Hungry is a simple, modern food delivery web app built with React and Vite. It features a sleek navigation menu, a functional search bar, and is designed to be easily extendable.
 
